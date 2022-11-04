@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   pullPolicy: IfNotPresent
   repository: 651010102653.dkr.ecr.us-east-1.amazonaws.com/argo-gitops
-  version: main-8471792
+  version: main-e515595
 
 imagePullSecrets: []
 nameOverride: ""
