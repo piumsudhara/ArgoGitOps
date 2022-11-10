@@ -6,7 +6,7 @@ replicaCount: 3
 
 image:
   pullPolicy: IfNotPresent
-  repository: 651010102653.dkr.ecr.us-east-1.amazonaws.com/eks-argo
+  repository: 651010102653.dkr.ecr.eu-west-2.amazonaws.com/eks-argo
   version: main-00001
 
 imagePullSecrets: []
