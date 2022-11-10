@@ -7,7 +7,7 @@ replicaCount: 3
 image:
   pullPolicy: IfNotPresent
   repository: 651010102653.dkr.ecr.eu-west-2.amazonaws.com/eksargo
-  version: main-89c3e5d
+  version: main-c1927fe
 
 imagePullSecrets: []
 nameOverride: ""
